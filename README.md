@@ -1,4 +1,4 @@
-# WiproTalentNext2025Solutions
+# WiproTalentNext2026Solutions
 
 This repository contains practice solutions and small projects for Java fundamentals, OOPs, JDBC, multithreading, collections, I/O, XML, and more.
 
